@@ -1,7 +1,7 @@
 # Database
 
 ### ERD
-https://github.com/luislopez-dev/Database/blob/main/ERD/readme.md
+https://github.com/luislopez-dev/ERD/
 ### DB Optimization
 https://github.com/luislopez-dev/database-optimization
 ### Normalization
