@@ -1,10 +1,10 @@
 # Database
 
-### ERD
-https://github.com/luislopez-dev/ERD/
-
 ### DB Optimization
 https://github.com/luislopez-dev/database-optimization
+
+### ERD
+https://github.com/luislopez-dev/ERD/
 
 ### Normalization
 https://github.com/luislopez-dev/DB-Normalization
