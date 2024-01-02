@@ -2,13 +2,15 @@
 
 ### ERD
 https://github.com/luislopez-dev/ERD/
+
 ### DB Optimization
 https://github.com/luislopez-dev/database-optimization
+
 ### Normalization
 https://github.com/luislopez-dev/DB-Normalization
 
-### SQL Server
-https://github.com/luislopez-dev/SQL-Server/
+### Data Modeling
+https://github.com/luislopez-dev/Data-Modeling
 
 ### Data Types
 https://github.com/luislopez-dev/sql-data-types
