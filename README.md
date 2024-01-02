@@ -30,6 +30,9 @@ https://github.com/luislopez-dev/SQL-Server/
 ### Oracle
 https://github.com/luislopez-dev/Oracle
 
+### Data Dictionary 
+https://github.com/luislopez-dev/Data-Dictionary
+
 ### Postgres
 https://github.com/luislopez-dev/Postgres
 
