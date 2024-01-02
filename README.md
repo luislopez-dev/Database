@@ -15,24 +15,23 @@ https://github.com/luislopez-dev/Data-Dictionary
 ### Data Modeling
 https://github.com/luislopez-dev/Data-Modeling
 
-### Data Types
-https://github.com/luislopez-dev/sql-data-types
-
-### No SQL
-https://github.com/luislopez-dev/NoSQL
-
 ### Extract, transform, and load (ETL)
 https://github.com/luislopez-dev/ETL
 
 ### SQL Server Integration Services
 https://github.com/luislopez-dev/SSIS
 
+### No SQL
+https://github.com/luislopez-dev/NoSQL
+
+### Data Types
+https://github.com/luislopez-dev/sql-data-types
+
 ### SQL Server
 https://github.com/luislopez-dev/SQL-Server/
 
 ### Oracle
 https://github.com/luislopez-dev/Oracle
-
 
 ### Postgres
 https://github.com/luislopez-dev/Postgres
