@@ -33,6 +33,12 @@ https://github.com/luislopez-dev/NoSQL
 ### Data Types
 https://github.com/luislopez-dev/sql-data-types
 
+### Database Security
+https://github.com/luislopez-dev/DB-Security
+
+### Database Maintaince
+https://github.com/luislopez-dev/Database-Maintaince
+
 ### SQL Server
 https://github.com/luislopez-dev/SQL-Server/
 
@@ -44,9 +50,3 @@ https://github.com/luislopez-dev/Postgres
 
 ### MySQL
 https://github.com/luislopez-dev/MySQL
-
-### Database Security
-https://github.com/luislopez-dev/DB-Security
-
-### Database Maintaince
-https://github.com/luislopez-dev/Database-Maintaince
