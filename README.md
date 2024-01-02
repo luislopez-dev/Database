@@ -16,7 +16,7 @@ https://github.com/luislopez-dev/sql-data-types
 ### No SQL
 https://github.com/luislopez-dev/NoSQL
 
-### ETL
+### Extract, transform, and load (ETL)
 https://github.com/luislopez-dev/ETL
 
 ### SQL Server Integration Services
