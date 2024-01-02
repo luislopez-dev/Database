@@ -3,14 +3,14 @@
 ### DB Optimization
 https://github.com/luislopez-dev/database-optimization
 
-### ERD
-https://github.com/luislopez-dev/ERD/
-
 ### Normalization
 https://github.com/luislopez-dev/DB-Normalization
 
 ### Data Modeling
 https://github.com/luislopez-dev/Data-Modeling
+
+### ERD
+https://github.com/luislopez-dev/ERD/
 
 ### Data Dictionary 
 https://github.com/luislopez-dev/Data-Dictionary
