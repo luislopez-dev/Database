@@ -29,3 +29,9 @@ https://github.com/luislopez-dev/SQL-Server/
 
 ### Oracle
 https://github.com/luislopez-dev/Oracle
+
+### Postgres
+https://github.com/luislopez-dev/Postgres
+
+### MySQL
+https://github.com/luislopez-dev/MySQL
